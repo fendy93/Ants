@@ -1,4 +1,4 @@
-# Ants Vs. SomeBees
+# Ants Vs. SomeBee
 A tower defense game inspired by PopCap Games' Plants Vs. Zombies. This project appl paradigms of functional and object-oriented programming. This project also involves understanding, extending, and testing a large program.
 
 # Characters
